@@ -1,0 +1,5 @@
+project_id   = "serverless-term-project-429516"
+region       = "us-central1"
+service_name = "serverless-term-project-web-application"
+image_url    = "nikunjjj/serverless-term-project-frontend"
+memory_limit = "512Mi"
